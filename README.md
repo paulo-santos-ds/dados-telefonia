@@ -1,5 +1,6 @@
 # Análise Planos de Telefonia
 
+
 ## Descrição do Projeto
 Este projeto tem como objetivo desenvolver um modelo que possa analisar o comportamento do cliente e recomendar um dos planos mais recentes de uma companhia telefônica fictícia.
 
