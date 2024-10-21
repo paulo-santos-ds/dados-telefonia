@@ -8,7 +8,6 @@ Este projeto tem como objetivo desenvolver um modelo que possa analisar o compor
 - **Pandas**: Biblioteca para manipulação e análise de dados.
 - **Sklearn**: Biblioteca para construção de modelo de machine learning.
 
-
 ## Tabela
 Para este projeto temos um conjunto de dados que já foi pré-processado.
 
