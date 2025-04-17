@@ -19,6 +19,7 @@ Cada observação no conjunto de dados contém informações comportamentais men
 - **mb_used** — Tráfego de internet usado em MB
 - **is_ultra** — plano para o mês atual (Ultra - 1, Smart - 0)
 
+
 ## Metodologia
 
 ### Análise Exploratória de Dados
